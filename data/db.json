@@ -1,0 +1,145 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTW9oYW1lZCIsImxhc3RuYW1lIjoiWU9VU1NGSSIsImVtYWlsIjoibWVkQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0.0yVuGZJ0Y8f9EOxA0aD92nwlSzoxBqibwbtFibe6at8"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTW9oYW1lZCIsImxhc3RuYW1lIjoiWU9VU1NGSSIsImVtYWlsIjoibWVkQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiXX0._UZo3C7e3-M3_eI_z3rzOOlxvmXzqNoIlTmTiWKB4nU"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3RuYW1lIjoiTW9oYW1lZCIsImxhc3RuYW1lIjoiWU9VU1NGSSIsImVtYWlsIjoibWVkQGdtYWlsLmNvbSIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ.NdmZ3qPmpl6jF9VZHEd-lGsN-VU6i1zfYQ_W69XGv40"
+    }
+  ],
+  "products": [
+    {
+      "name": "Smart 67",
+      "price": "4500",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "id": 15,
+      "name": "a",
+      "price": "4566",
+      "checked": true
+    },
+    {
+      "id": 16,
+      "name": "a",
+      "price": "4566",
+      "checked": true
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "a",
+      "price": 0,
+      "checked": false,
+      "id": 16
+    },
+    {
+      "name": "mmmm",
+      "price": 0,
+      "checked": false,
+      "id": 17
+    }
+  ]
+}
